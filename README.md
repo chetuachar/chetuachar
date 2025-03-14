@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS, Go lang**
 
-- 👨‍💻 All of my projects are available at [https://chetuachar.github.io](https://chetuachar.github.io)
+- 👨‍💻 All of my projects are available at [https://chetuachar.github.io](https://chetuachar.github.io](https://github.com/chetuachar)
 
 - 💬 Ask me about **go lang, react js**
 
